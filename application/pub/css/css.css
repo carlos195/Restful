@@ -1,0 +1,14 @@
+
+body{
+	background-color:white;
+}
+
+#tabla{
+	border-spacing:0;
+	text-align:center;
+	width:500px;
+}
+
+#tabla tr:first-child{
+	background-color:green;
+}
